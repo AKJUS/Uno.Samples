@@ -42,10 +42,10 @@
   </ItemGroup>
   <ItemGroup>
 	<PackageReference Include="IdentityModel" Version="6.0.0" />
-	<PackageReference Include="System.Text.Json" Version="8.0.0" />
+	<PackageReference Include="System.Text.Json" Version="8.0.5" />
 	<PackageReference Include="Microsoft.Windows.Compatibility" />	
     <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
-    <PackageReference Include="Microsoft.Windows.Compatibility" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="8.0.10" />
     <PackageReference Include="Uno.Extensions.Logging.WebAssembly.Console" Version="1.7.0" />
     <PackageReference Include="Uno.WinUI.WebAssembly" Version="5.1.87" />
     <PackageReference Include="Uno.WinUI.DevServer" Version="5.1.87" Condition="'$(Configuration)'=='Debug'" />
