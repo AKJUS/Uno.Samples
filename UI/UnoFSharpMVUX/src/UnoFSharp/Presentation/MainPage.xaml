@@ -19,11 +19,6 @@
             HorizontalAlignment="Center"
             VerticalAlignment="Center"
             Spacing="16">
-        <TextBox Text="{Binding Name, Mode=TwoWay}"
-            PlaceholderText="Enter your name:" />
-        <Button Content="Go to Second Page"
-            AutomationProperties.AutomationId="SecondPageButton"
-            Command="{Binding GoToSecond}" />
         <Button Content="Test F# Records with MVUX"
             Command="{Binding GoToFSharpTest}"
             Style="{StaticResource FilledButtonStyle}" />
