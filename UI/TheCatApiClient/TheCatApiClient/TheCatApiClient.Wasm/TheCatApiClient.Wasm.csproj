@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
 	  <PackageReference Include="System.Text.Json" Version="8.0.0" />
-	  <PackageReference Include="Microsoft.Windows.Compatibility" Version="8.0.0" />
+	  <PackageReference Include="Microsoft.Windows.Compatibility" Version="9.0.0" />
 	  <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
 	  <PackageReference Include="Uno.Extensions" Version="2.2.0" />
 	  <PackageReference Include="Uno.Extensions.Logging.WebAssembly.Console" Version="1.7.0" />
