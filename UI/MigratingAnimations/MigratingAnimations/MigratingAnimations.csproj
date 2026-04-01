@@ -11,7 +11,7 @@
 		<PackageReference Include="Uno.WinUI" Version="5.1.87" />
 		<PackageReference Include="Uno.Resizetizer" Version="1.0.2" />
 		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.1.0" />
-		<PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.1" />
 	</ItemGroup>
 
 	<Choose>
